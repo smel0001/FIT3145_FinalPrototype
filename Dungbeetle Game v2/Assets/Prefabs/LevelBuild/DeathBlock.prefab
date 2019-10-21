@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8331407475519071301}
   - component: {fileID: 8331407475519071296}
   - component: {fileID: 8331407475519071300}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: DeathBlock
   m_TagString: Respawn
   m_Icon: {fileID: 0}
